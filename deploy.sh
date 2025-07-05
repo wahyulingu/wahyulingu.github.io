@@ -4,6 +4,7 @@ BUILD_DIR="_site"
 DEPLOY_BRANCH="gh-pages"
 
 echo "🔧 Membangun Jekyll..."
+bundle config set --local path 'vendor/bundle'
 bundle exec jekyll build || { echo "❌ Build gagal"; exit 1; }
 
 # Simpan nama branch aktif
