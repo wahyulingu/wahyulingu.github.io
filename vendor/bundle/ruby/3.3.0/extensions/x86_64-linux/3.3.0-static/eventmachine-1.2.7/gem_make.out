@@ -1,0 +1,19 @@
+current directory: /srv/build/ghpages/wahyulingu.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /srv/build/ghpages/wahyulingu.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250705-24364-y2nwmz sitelibdir\=./.gem.20250705-24364-y2nwmz clean
+
+current directory: /srv/build/ghpages/wahyulingu.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250705-24364-y2nwmz sitelibdir\=./.gem.20250705-24364-y2nwmz
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /srv/build/ghpages/wahyulingu.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250705-24364-y2nwmz sitelibdir\=./.gem.20250705-24364-y2nwmz install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20250705-24364-y2nwmz
+
+current directory: /srv/build/ghpages/wahyulingu.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250705-24364-y2nwmz sitelibdir\=./.gem.20250705-24364-y2nwmz clean
